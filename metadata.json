@@ -1,0 +1,11 @@
+{
+  "name": "VoxIris AI",
+  "description": "Multi-Modal Intelligent Ecosystem for Real-Time Automated Recommendations using vision and voice analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
